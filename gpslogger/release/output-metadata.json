@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.mendhak.gpslogger",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 127,
+      "versionName": "127",
+      "outputFile": "gpslogger-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
